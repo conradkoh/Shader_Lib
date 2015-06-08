@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shader_Lib", "Shader_Lib\Shader_Lib.csproj", "{1216982C-3464-49BE-899B-2A1F2DDF536C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shader_Testdriver", "Shader_Testdriver\Shader_Testdriver.csproj", "{1DAE9783-A978-42A3-A27D-7893E7E5FE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1216982C-3464-49BE-899B-2A1F2DDF536C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1216982C-3464-49BE-899B-2A1F2DDF536C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1216982C-3464-49BE-899B-2A1F2DDF536C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1216982C-3464-49BE-899B-2A1F2DDF536C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAE9783-A978-42A3-A27D-7893E7E5FE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAE9783-A978-42A3-A27D-7893E7E5FE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAE9783-A978-42A3-A27D-7893E7E5FE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAE9783-A978-42A3-A27D-7893E7E5FE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

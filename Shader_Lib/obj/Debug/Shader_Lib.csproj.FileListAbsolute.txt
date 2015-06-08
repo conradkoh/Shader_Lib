@@ -1,0 +1,10 @@
+C:\Users\conra_000\Desktop\TEST\Shader_Lib\Shader_Lib\bin\Debug\Shader_Lib.dll
+C:\Users\conra_000\Desktop\TEST\Shader_Lib\Shader_Lib\bin\Debug\Shader_Lib.pdb
+C:\Users\conra_000\Desktop\TEST\Shader_Lib\Shader_Lib\obj\Debug\Shader_Lib.csprojResolveAssemblyReference.cache
+C:\Users\conra_000\Desktop\TEST\Shader_Lib\Shader_Lib\obj\Debug\Shader_Lib.dll
+C:\Users\conra_000\Desktop\TEST\Shader_Lib\Shader_Lib\obj\Debug\Shader_Lib.pdb
+C:\Users\conra_000\Documents\Personal\C# projects\Shader\Shader\Shader_Lib\bin\Debug\Shader_Lib.dll
+C:\Users\conra_000\Documents\Personal\C# projects\Shader\Shader\Shader_Lib\bin\Debug\Shader_Lib.pdb
+C:\Users\conra_000\Documents\Personal\C# projects\Shader\Shader\Shader_Lib\obj\Debug\Shader_Lib.csprojResolveAssemblyReference.cache
+C:\Users\conra_000\Documents\Personal\C# projects\Shader\Shader\Shader_Lib\obj\Debug\Shader_Lib.dll
+C:\Users\conra_000\Documents\Personal\C# projects\Shader\Shader\Shader_Lib\obj\Debug\Shader_Lib.pdb
